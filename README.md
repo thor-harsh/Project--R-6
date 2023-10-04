@@ -2,9 +2,9 @@
 
 <table>
 
-  This story was the subject of the book Moneyball, written by the legendary author Michael Lewis. The main premise is that what common knowledge suggests about how to succeed in sports, specially in the MLB, is not always correct. Metrics like stolen bases, runs batted in, and batting average are known and respected by everyone. Measurements like on-base percentage and slugging percentage, however, are not usually thought of as better indicators of offensive success, but that’s exactly what the A’s were looking for.
+  The central premise of book Moneyball is that the collective wisdom of baseball insiders (including players, managers, coaches, scouts, and the front office) over the past century is subjective and often flawed. Statistics such as stolen bases, runs batted in, and batting average, typically used to gauge players, are relics of a 19th-century view of the game and the statistics available at that time. The book argues that the Oakland A's' front office took advantage of more analytical gauges of player performance to field a team that could better compete against richer competitors in Major League Baseball (MLB).<br/>
 
-In this project, we will recreate the story of the 2002 Oakland A’s and see if we, with the power of data analysis and R, can find the players that can replace the stars that left them the year before.</br>
+In this project, we will recreate the story of the 2002 Oakland A’s and see if we, with the power of data analysis and R, can find the players that can replace the stars that left them the year before.In this project we'll work with some data and with the goal of trying to find replacement players for the ones lost at the start of the off-season - During the 2001–02 offseason, the team lost three key free agents to larger market teams: 2000 AL MVP Jason Giambi to the New York Yankees, outfielder Johnny Damon to the Boston Red Sox, and closer Jason Isringhausen to the St. Louis Cardinals.</br>
 
 </table>
 
